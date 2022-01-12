@@ -1,8 +1,8 @@
 # MyData Project
-<p>마이데이터 사업을 하며 개인정보데이터 및 관련 프로젝트의 데이터를 처리 및 분석하는 Python기반 프로젝트입니다. 
+<p>마이데이터 사업을 하며 개인정보데이터 및 관련 프로젝트의 데이터를 처리 및 분석하는 Python기반 프로젝트입니다.</p>
 <br></br>
 ### 실행환경
- * Jupyter notebook
+  * Jupyter notebook
 
 ### Faker 라이브러리를 사용한 개인정보 데이터 변경
   * faker 라이브러리 기능
